@@ -1,0 +1,10 @@
+name: dsci522-practice
+channels:
+  - conda-forge
+dependencies:
+  - conda-lock=2.5.8
+  - numpy=2.3.5
+  - pandas=2.3.3
+  - python=3.14.0
+
+prefix: C:\Users\josed\miniforge3\envs\dsci522-practice
